@@ -24,7 +24,7 @@ BULK INSERT guns
 FROM 'C:\Users\your_name\Desktop\guns.csv' --This will vary depending on where you save the dataset
 WITH
 (
-	FIRSTROW = 2, --first row is technically the csv header
+	FIRSTROW = 2, --First row is technically the csv header
 	FIELDTERMINATOR = ',', --CSV field delimiter
 	ROWTERMINATOR = '\n', --Use to shift the control to the next row
 	TABLOCK
