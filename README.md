@@ -13,8 +13,10 @@ NOTE: The last line is formatted incorrectly in the file preview, this is explai
 
 This SQL project covers the same actions using MS SQL Server (T-SQL) and pgAdmin (PostgreSQL).
 
-This project will cover creating the databases and tables needed, as well as queries exploring that data and updating certain aspects of the data.<br />
-I am currently working on creating a Tableau visualization to accompany this data (COMING SOON).
+This project will cover creating the databases and tables needed, as well as queries exploring that data and updating certain aspects of the data.
+
+I am currently working on creating a Tableau visualization to accompany this data (COMING SOON).<br />
+My Tableau Public portfolio can be found here: https://public.tableau.com/app/profile/jake.isaacs
 
 Project Contents:
 - README
