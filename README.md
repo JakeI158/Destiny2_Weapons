@@ -9,7 +9,9 @@ I originally discovered the dataset here:
 https://www.kaggle.com/vishwasrao99/destiny-2-guns?select=guns.csv
 
 I've made a few changes to the original dataset, so I will upload my version of the data to this project.
+
 The file is named 'guns_v2.csv'
+
 NOTE: Line 409 id formatted incorrectly in the file preview, this is explained and fixed in the SQL statements.
 
 This SQL project covers the same actions using MS SQL Server (T-SQL) and pgAdmin (PostgreSQL).
